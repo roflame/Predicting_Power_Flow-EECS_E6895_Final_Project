@@ -12,5 +12,6 @@ The goal of this project is to optimize the power flow in a region under various
 1. Open the Web Dashboard file.
 2. Open app.py.
 3. Under @app.route('/chart1'), change the directory of the df to wherever your all_forecast.csv is stored.
+4. Run the file.
 5. Open the Flask url in your localhost.
 6. Play around!

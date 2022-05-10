@@ -8,7 +8,7 @@ The goal of this project is to optimize the power flow in a region under various
 
 ## To setup, first, clone the repository.
 
-### To run the web dashboard and generate predictions follow (after cloning the repositories and downloading all dependancies) the below steps:
+### To run the web dashboard and generate predictions, follow the below steps:
 1. Open the Web Dashboard file.
 2. Open app.py.
 3. Under @app.route('/chart1'), change the directory of the df to wherever your all_forecast.csv is stored.

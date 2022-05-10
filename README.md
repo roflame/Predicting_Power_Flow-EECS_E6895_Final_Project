@@ -11,7 +11,6 @@ The goal of this project is to optimize the power flow in a region under various
 ### To run the web dashboard and generate predictions follow (after cloning the repositories and downloading all dependancies) the below steps:
 1. Open the Web Dashboard file.
 2. Open app.py.
-3. Under @app.route('/chart1'):
-  a. Change the directory of the df to wherever your all_forecast.csv is stored.
+3. Under @app.route('/chart1'), change the directory of the df to wherever your all_forecast.csv is stored.
 5. Open the Flask url in your localhost.
 6. Play around!

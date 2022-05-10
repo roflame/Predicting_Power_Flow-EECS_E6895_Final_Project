@@ -4,7 +4,9 @@
 
 ## Project Description
 
-Predicting power flow using ML based on data gathered from real-world simulations and correlating with an energy demand forecast.
+The goal of this project is to optimize the power flow in a region under various conditions and to determine if the optimal power flow problem can be made faster using machine learning and AI. This is an important task because increased energy demand, addition of renewable energy and electric vehicles had led to increased challenges in terms of maintaining system stability and economic viability. Suboptimal power flow conditions could exacerbate climate change. The end goal is that the techniques in this project will contribute to lowering the time and computing energy needed to perform power flow optimization so that the development of the energy landscape will not be hindered.
+
+## To setup, first, clone the repository.
 
 ### To run the web dashboard and generate predictions follow (after cloning the repositories and downloading all dependancies) the below steps:
 1. Open the Web Dashboard file.
